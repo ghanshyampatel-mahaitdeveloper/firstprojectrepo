@@ -1,1 +1,3 @@
 This file added direct from github web portal.
+
+added for rule TEST
